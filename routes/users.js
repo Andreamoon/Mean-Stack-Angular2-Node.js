@@ -22,8 +22,8 @@ var sgTransport = require('nodemailer-sendgrid-transport'); // Import Nodemailer
         secureConnection: true, // use SSL
         port: 465 , // port for secure SMTP
         auth: {
-            user: "andrealunetta1@gmail.com",
-            pass: "itsstevejobs2012"
+            user: "**************",
+            pass: "**************"
         }
     });
 
